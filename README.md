@@ -4,7 +4,8 @@
 - 🌱 Estudando JavaScript
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chiarelo&show_icons=true&theme=midnight-purple">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarelo&theme=midnight-purplel&layout=compact">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarelo&theme=midnight-purple&layout=compact">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
