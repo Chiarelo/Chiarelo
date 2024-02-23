@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b930b7&size=40&center=true&vCenter=true&width=1000&lines=Oi+,+eu+sou)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=40&center=true&vCenter=true&width=1000&lines=Oi+,+eu+sou)](https://git.io/typing-svg)
  
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
