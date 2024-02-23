@@ -39,3 +39,6 @@
 ## 💻 Contact
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo-43b848238/)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
