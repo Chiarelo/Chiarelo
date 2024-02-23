@@ -1,15 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:c15050,100:cd2e2e&height=200&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:c15050,100:cd2e2e&height=200&section=header" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cd2e2e&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Vinícius!)](https://git.io/typing-svg)
+
+ 
+<img src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
  
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
+<p><sup><kbd><a href="https://github.com/chiarelo?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
+ 
+<h3 align="left">Linguagens Utilizadas:</h3>
+<div style="display: inline_block"><br>
+<img align="center" alt="Vinícius-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Vinícius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Vinícius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
-[![Vinícius GitHub Streak](https://streak-stats.demolab.com?user=Chiarelo&theme=shadow_red&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+[![Vinícius GitHub Streak](https://streak-stats.demolab.com?user=chiarelo&theme=shadow_red&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Chiarelo&show_icons=true&locale=en&theme=shadow_red&rank_icon=github" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiarelo&theme=shadow_red&layout=donut">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&locale=en&theme=shadow_red&rank_icon=github" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=shadow_red&layout=donut">
  
 <picture>
 <source
@@ -27,17 +40,13 @@
 </picture>
 </div>
  
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+ 
  
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
-## 💻 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo-43b848238/) {:target="_blank"}
-<a href="mailto:viniciuschiiarelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd2e2e&height=120&section=footer"/>
-
+<h3 align="left">💻 Contact</h3>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo/)
+<a href="mailto:viniciuschiarelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:cd2e2e,100:c15050&height=120&section=footer"/>
