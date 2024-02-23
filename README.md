@@ -6,7 +6,10 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://streak-stats.demolab.com?user=chiarelo&theme=midnight-purple&locale=pt_BR&card_width=150">
-    <img src="https://streak-stats.demolab.com?user=chiarelo&theme=midnight-purple&locale=pt_BR&card_width=150">
+    <<source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
     <img src="https://streak-stats.demolab.com?user=chiarelo&theme=midnight-purple&locale=pt_BR&card_width=150">
 </div>
 
