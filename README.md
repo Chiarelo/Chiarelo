@@ -46,7 +46,7 @@
  
 <h3 align="left">💻 Contact</h3>
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo-43b848238/)
 <a href="mailto:viniciuschiarelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:cd2e2e,100:c15050&height=120&section=footer"/>
