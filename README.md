@@ -36,8 +36,8 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 ## 💻 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo-43b848238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo-43b848238/) {:target="_blank"}
 <a href="mailto:viniciuschiiarelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd2e2e&height=120&section=footer" target="_blank"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd2e2e&height=120&section=footer"/>
 
