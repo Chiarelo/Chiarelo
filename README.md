@@ -10,7 +10,7 @@
 
 <div style="Align-itens: center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&theme=shadow-red">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=shadow-red&layout=compact">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=aura&layout=compact">
 <picture>
 <source
     media="(prefers-color-scheme: dark)"
