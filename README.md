@@ -3,9 +3,9 @@
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
- 
+ <div style="Align-itens: center">
 [![Vinícius GitHub Streak](https://streak-stats.demolab.com?user=andrrade&theme=midnight-purple&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
-<div>
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&theme=midnight-purple">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=midnight-purple&layout=compact">
 <picture>
