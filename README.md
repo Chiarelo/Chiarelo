@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=cd2e2e&height=200&section=header" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Vinícius!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cd2e2e&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Vinícius!)](https://git.io/typing-svg)
  
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
