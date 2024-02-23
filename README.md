@@ -6,11 +6,11 @@
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-[![Vinícius GitHub Streak](https://streak-stats.demolab.com?user=chiarelo&theme=blue_navy&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+[![Vinícius GitHub Streak](https://streak-stats.demolab.com?user=chiarelo&theme=shadow-blue&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 
 <div style="Align-itens: center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&theme=blue_navy">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=blue_navy&layout=compact">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&theme=shadow-blue">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=shadow-blue&layout=compact">
 <picture>
 <source
     media="(prefers-color-scheme: dark)"
