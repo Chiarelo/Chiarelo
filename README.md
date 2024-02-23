@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1,+eu+sou+o+Vinícius!+%F0%9F%92%BB%F0%9F%96%90%F0%9F%8F%BC)](https://git.io/typing-svg).
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b930b7&size=40&center=true&vCenter=true&width=1000&lines=Oi+,+eu+sou)](https://git.io/typing-svg)
  
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
