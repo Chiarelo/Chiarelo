@@ -6,8 +6,8 @@
  
 [![Yuri GitHub Streak](https://streak-stats.demolab.com?user=chiarelo&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&theme=midnight-purple">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=midnight-purple&layout=compact">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&theme=midnight-purple">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=midnight-purple&layout=compact">
 <picture>
 <source
     media="(prefers-color-scheme: dark)"
