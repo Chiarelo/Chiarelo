@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=cd2e2e&height=200&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:c15050,100:cd2e2e&height=200&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cd2e2e&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Vinícius!)](https://git.io/typing-svg)
  
@@ -37,4 +37,7 @@
  
 ## 💻 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chiarelo-43b848238/)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd2e2e&height=120&section=footer"/>
+<a href="mailto:viniciuschiiarelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cd2e2e&height=120&section=footer" target="_blank"/>
+
