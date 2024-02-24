@@ -7,6 +7,9 @@
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
 <p><sup><kbd><a href="https://github.com/chiarelo?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
+
+
+
  
 <h3 align="left">Linguagens Utilizadas:</h3>
 <div style="display: inline_block"><br>
@@ -21,6 +24,9 @@
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=chiarelo&show_icons=true&locale=en&theme=shadow_red&rank_icon=github" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=shadow_red&layout=donut">
+
+
+[![Vinícius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiarelo&bg_color=000000&color=cd2e2e&line=FFFFFF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <picture>
 <source
@@ -37,6 +43,8 @@
   />
 </picture>
 </div>
+
+
  
  
  
