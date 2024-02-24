@@ -26,7 +26,7 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarelo&theme=shadow_red&layout=donut">
 
 
-[![Vinícius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiarelo&bg_color=000000&color=cd2e2e&line=FFFFFF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vinícius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiarelo&bg_color=transparent&color=9e2000&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <picture>
 <source
