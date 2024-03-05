@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c15050&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Vinícius+:%29+;Estou+cursando+ADS+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
 
-<img src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
+<img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Animação da logo do GitHub">
  
 ###### Atualmente, cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript
  
-<p><sup><kbd><a href="https://github.com/chiarelo?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
+<p><sup><kbd><a href="https://github.com/chiarelo?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos e seja bem-vindo(a)!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
 
 
 
