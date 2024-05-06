@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:de5252,100:9A0000&height=200&section=header"/>
  
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9A0000&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Vinícius+:%29+;Estou+cursando+ADS+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9A0000&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Vinícius+:%29+;Estou+cursando+ADS+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
  
 <!-- Logo GitHub -->
 <img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
