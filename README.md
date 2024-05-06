@@ -56,7 +56,7 @@
 <!-- Contador de Visitas -->
 <div>
 <p align="center"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%chiarelo&s=50&c=9A0000&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p><br>
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%chiarelo&s=50&c=de5252&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p><br>
 </div>
  
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
