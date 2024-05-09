@@ -60,6 +60,15 @@
 </div>
  
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- Ícones Minecraft-->
+ <div>
+   <h3 align="left"><img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/152_Redstone%20Block.png" width="32" height="32"> Principais projetos:</h3>
+   <div style="display: inline_block"><br>
+  <p><a target="_blank" href="https://github.com/Chiarelo/Faculdade-ADS.git"> Faculdade-ADS <img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/381_Eye%20of%20Ender.png" width="32" height="32"></a></p>
+     </div>
+</div>
+
  
 <!-- Contato -->
 <h3 align="left">💻 Contato</h3>
