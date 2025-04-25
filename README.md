@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/andrrade/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,%20eu%20sou%20o%20Vinícius%20Chiarelo%20:);Estudo%20Análise%20e%20Desenvolvimento%20de%20Sistemas!;&font=Fira%20Code&center=true&width=440&height=45&color=de5252&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C%20eu%20sou%20o%20Vin%C3%ADcius%20Chiarelo%20%3A)%3BAnalista%20e%20Desenvolvedor%20de%20Sistemas!&font=Fira%20Code&center=true&width=600&height=60&color=de5252&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
   </a>
 </p>
 
