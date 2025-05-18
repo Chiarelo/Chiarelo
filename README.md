@@ -16,26 +16,32 @@
 
 <!-- Contact Badges -->
 <p align="center">
+   <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/vinicius-chiarelo-43b848238" target="_blank">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9A0000" />
-  </a>
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9A0000" /></a>
+
+   <!-- Gmail Badge -->
   <a href="mailto:viniciuschiiarelo@gmail.com" target="_blank">
     <img alt="Gmail" title="Send me an email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9A0000" />
-  </a>
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9A0000"/></a>
+
+  <!-- GitHub Repositories Badge -->
   <a href="https://github.com/Chiarelo" target="_blank">
     <img alt="Repositories" title="See my repositories on GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=9A0000" />
-  </a>
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=9A0000"/></a>
+
+  <!-- Starred Repositories Badge -->
   <a href="https://github.com/Chiarelo?tab=stars" target="_blank">
     <img alt="Starred Repositories" title="Repositories I've Starred" 
-         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=9A0000" />
-  </a>
+         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=9A0000" /></a>
+
+   <!-- GitHub Followers Badge -->
   <a href="https://github.com/Chiarelo?tab=followers" target="_blank">
     <img alt="Followers" title="My Followers on GitHub" 
          src="https://img.shields.io/github/followers/chiarelo?style=for-the-badge&color=9A0000&labelColor=282A36&logo=github&logoColor=white" />
   </a>
+  
 </p>
 
 <br>
@@ -49,11 +55,9 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 
 ---
 
-### 💻 Tecnologias e Ferramentas
-
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,java,cs,python,mysql,sqlite,git,github,vscode,linux" />
-</div>
+### 👩🏻‍💻 Stacks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,java,cs,python,mysql,sqlite,git,github,vscode,linux" /></a>
 
 ---
 
