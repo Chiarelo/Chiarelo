@@ -61,6 +61,15 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 
 ---
 
+<!-- Frase Motivacional -->
+<p align="center"> 
+  <a href="https://www.amazon.com.br/Arte-Lidar-com-Pessoas/dp/8566997041" target="_blank"> 
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red&quote=Muitas%20pessoas%20come%C3%A7am%20e%20param%20no%20meio.%20%C3%89%20assim%20que%20vivem%3A%20com%20meio%20livro%2C%20meia%20vit%C3%B3ria%2C%20meia%20felicidade.%20Mas%20quem%20termina%20o%20que%20come%C3%A7a%20%C3%A9%20um%20triunfador.&author=Jamil%20Albuquerque" alt="Frase motivacional por Jamil Albuquerque" /> 
+  </a> 
+</p>
+
+---
+
 <!-- Footer --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=footer"/> 
 
