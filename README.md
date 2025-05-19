@@ -27,7 +27,7 @@
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9A0000"/></a>
 
   <!-- GitHub Repositories Badge -->
-  <a href="https://github.com/Chiarelo" target="_blank">
+  <a href="https://github.com/Chiarelo?tab=repositories" target="_blank">
     <img alt="Repositories" title="See my repositories on GitHub" 
          src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=9A0000"/></a>
 
