@@ -55,7 +55,7 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 
 ---
 
-### 👩🏻‍💻 Stacks
+### 👨🏻‍💻 Stacks
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,java,cs,python,mysql,sqlite,git,github,vscode,linux" /></a>
 
