@@ -64,11 +64,12 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 ---
 
 <!-- Frase Motivacional -->
-<p align="center"> 
-  <a href="https://www.amazon.com.br/Arte-Lidar-com-Pessoas/dp/8566997041" target="_blank"> 
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red&quote=Muitas%20pessoas%20come%C3%A7am%20e%20param%20no%20meio.%20%C3%89%20assim%20que%20vivem%3A%20com%20meio%20livro%2C%20meia%20vit%C3%B3ria%2C%20meia%20felicidade.%20Mas%20quem%20termina%20o%20que%20come%C3%A7a%20%C3%A9%20um%20triunfador.&author=Jamil%20Albuquerque" alt="Frase motivacional por Jamil Albuquerque" /> 
-  </a> 
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red&quote=%C3%89%20imposs%C3%ADvel%20alcan%C3%A7ar%20a%20perfei%C3%A7%C3%A3o%2C%20mas%20n%C3%A3o%20%C3%A9%20dif%C3%ADcil%20aproximar-se%20dela.&author=Tel%C3%AA%20Santana" alt="Frase motivacional por Telê Santana" />
+  </a>
 </p>
+
 
 ---
 
