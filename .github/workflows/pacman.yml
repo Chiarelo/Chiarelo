@@ -9,18 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman graph
+        uses: paul-shuvo/github-pacman-action@v1
         with:
           github_user_name: Chiarelo
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          theme: github
+          output_directory: dist
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
