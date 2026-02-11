@@ -3,7 +3,7 @@
 
 # Vinícius Chiarelo
 
-**`Desenvolvedor Full Stack | Estudante de ADS na FATEC`**
+**`Desenvolvedor Junior na Eddydata`**
 
 <br>
 
