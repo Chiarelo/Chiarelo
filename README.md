@@ -123,7 +123,3 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=footer"/> 
 
 <p align="center">Confira abaixo alguns projetos que desenvolvi &lt;/&gt;</p> 
-
-<p align="center">
-  <img width="50rem" height="50rem" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif">
-</p>
