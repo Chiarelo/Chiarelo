@@ -105,6 +105,19 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
        src="https://raw.githubusercontent.com/viniciuschiarelo/viniciuschiarelo/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<!-- GitHub Stats -->
+<details>
+  <summary><strong>:octocat: Github Stats</strong></summary>
+  <br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Stats Cards -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=viniciuschiarelo&show_icons=true&locale=en&theme=shadow_red&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuschiarelo&theme=shadow_red&layout=compact&card_width=100">
+</div>
+</details>
+
+
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=footer"/> 
