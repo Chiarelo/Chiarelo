@@ -27,19 +27,19 @@
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9A0000"/></a>
 
   <!-- GitHub Repositories Badge -->
-  <a href="https://github.com/Chiarelo?tab=repositories" target="_blank">
+  <a href="https://github.com/viniciuschiarelo?tab=repositories" target="_blank">
     <img alt="Repositories" title="See my repositories on GitHub" 
          src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=9A0000"/></a>
 
   <!-- Starred Repositories Badge -->
-  <a href="https://github.com/Chiarelo?tab=stars" target="_blank">
+  <a href="https://github.com/viniciuschiarelo?tab=stars" target="_blank">
     <img alt="Starred Repositories" title="Repositories I've Starred" 
          src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=9A0000" /></a>
 
    <!-- GitHub Followers Badge -->
-  <a href="https://github.com/Chiarelo?tab=followers" target="_blank">
+  <a href="https://github.com/viniciuschiarelo?tab=followers" target="_blank">
     <img alt="Followers" title="My Followers on GitHub" 
-         src="https://img.shields.io/github/followers/chiarelo?style=for-the-badge&color=9A0000&labelColor=282A36&logo=github&logoColor=white" />
+         src="https://img.shields.io/github/followers/viniciuschiarelo?style=for-the-badge&color=9A0000&labelColor=282A36&logo=github&logoColor=white" />
   </a>
   
 </p>
@@ -77,10 +77,8 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-
 ---
 
-<!-- Frase Motivacional -->
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red&quote=%C3%89%20imposs%C3%ADvel%20alcan%C3%A7ar%20a%20perfei%C3%A7%C3%A3o%2C%20mas%20n%C3%A3o%20%C3%A9%20dif%C3%ADcil%20aproximar-se%20dela.&author=Tel%C3%AA%20Santana" alt="Frase motivacional por Telê Santana" />
@@ -88,6 +86,7 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 </p>
 
 ---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -99,18 +98,15 @@ Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/Chiarelo/Chiarelo/output/pacman-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/viniciuschiarelo/viniciuschiarelo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/Chiarelo/Chiarelo/output/pacman-contribution-graph.svg">
+          srcset="https://raw.githubusercontent.com/viniciuschiarelo/viniciuschiarelo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/Chiarelo/Chiarelo/output/pacman-contribution-graph.svg">
+       src="https://raw.githubusercontent.com/viniciuschiarelo/viniciuschiarelo/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 ---
 
-<!-- Footer --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=footer"/> 
 
 <p align="center">Confira abaixo alguns projetos que desenvolvi &lt;/&gt;</p> 
