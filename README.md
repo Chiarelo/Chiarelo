@@ -3,7 +3,7 @@
 
 # Vinícius Chiarelo Gomes
 
-**`Desenvolvedor Junior na Eddydata`**
+**Desenvolvedor Junior na [Eddydata](https://www.eddydata.com.br/)**
 
 <br>
 
