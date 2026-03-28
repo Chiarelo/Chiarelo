@@ -3,7 +3,7 @@
 
 # Vinícius Chiarelo Gomes
 
-**Desenvolvedor Junior na [Eddydata](https://www.eddydata.com.br/)**
+**Desenvolvedor Junior na Eddydata | Pós-graduação em andamento na FIAP (Tecnologia)**
 
 <br>
 
