@@ -51,7 +51,7 @@
 
 <br><br>
 
-Sou um estudante apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca. Tenho foco em desenvolvimento Full Stack e gosto de construir sistemas que integrem produtividade, organização e eficiência. Estou sempre buscando me aperfeiçoar e aprender algo novo todos os dias 🚀.
+Sou um desenvolvedor na Eddydata e apaixonado por tecnologia. Atualmente estou cursando a Pós Tech de DevOps da FIAP. Tenho foco em desenvolvimento Full Stack e gosto de construir sistemas que integrem produtividade, organização e eficiência. Estou sempre buscando me aperfeiçoar e aprender algo novo todos os dias 🚀.
 
 ---
 
